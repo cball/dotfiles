@@ -6,7 +6,7 @@ I manage my dotfiles using Homesick (http://github.com/technicalpickles/homesick
 ```zsh
 gem install homesick
 homesick clone cball/dotfiles
-homesick symlink cball/dotfiles
+homesick symlink dotfiles
 ```
 
 ###Install Vundle and Vim Bundles###
