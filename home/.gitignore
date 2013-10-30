@@ -1,0 +1,8 @@
+*.DS_Store
+.bundle
+log/*.log
+tags
+tmp/**/*
+zeus.json
+!bin
+vim/bundle/
